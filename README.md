@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Amritanshu Singh from Pune ,India<br><br>- 🔭 I’m working as Associate Software Engineer at Tech Mahindra<br>- 📚 I'm currently working as nextjs developer<br>- ⚡ In my free time I learn new techs articles and courses</p>
 
 ###
 
